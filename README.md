@@ -1,0 +1,34 @@
+# Embed3
+
+A Jupyter Notebook, Python application
+
+## Features
+
+- Python application
+- Machine learning
+- Jupyter notebook analysis
+- Numerical computing
+
+## Languages Used
+
+Jupyter Notebook, Python
+
+## Dependencies
+
+- numpy
+- google
+- openai
+- tiktoken
+- sklearn
+
+## Installation
+
+Install dependencies and run the main file.
+
+## Usage
+
+Install dependencies and run the main file
+
+## License
+
+MIT
